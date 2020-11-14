@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/qqqgsqgzl", (function(a){return {data:[{id:"qqqgsqgzl",createdAt:a,updatedAt:a,publishedAt:a,title:"てすとにかいめ。",text:"はろーわーるど。"}],fetch:[],mutations:void 0}}("2020-11-14T01:50:12.343Z")));

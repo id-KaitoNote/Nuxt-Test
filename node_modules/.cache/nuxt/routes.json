@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/kaito/Works/Web/Nuxt-Test/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b1805f3a"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "/Users/kaito/Works/Web/Nuxt-Test/pages/_slug/index.vue",
+    "chunkName": "pages/_slug/index",
+    "_name": "_f0829544"
+  }
+]
